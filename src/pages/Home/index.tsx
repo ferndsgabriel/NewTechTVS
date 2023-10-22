@@ -75,7 +75,8 @@ function Home(){
                         e apresenta outros problemas.
                         </p>
                         <a className="bg-main self-start text-white font-medium px-4 py-3 rounded
-                        hover:scale-105 duration-300">
+                        hover:scale-105 duration-300"
+                        href="https://api.whatsapp.com/send?phone=5511969205393&text=" target="_blank">
                             Orçamento grátis
                         </a>
                     </div>
